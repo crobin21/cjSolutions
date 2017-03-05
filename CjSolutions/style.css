@@ -552,3 +552,7 @@ footer *{
 .title span{
     font-weight: 900;
 }
+.language-selector {
+    text-align: right;
+    position: relative
+}
