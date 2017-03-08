@@ -4399,8 +4399,8 @@ a.thumbnail:focus {
 }
 .list-group {
   margin-top: 25px;
-    margin-bottom: 20px;
-    padding-left: 0;
+  margin-bottom: 20px;
+  padding-left: 0;
 }
 .list-group-item {
   position: relative;
