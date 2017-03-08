@@ -4398,8 +4398,9 @@ a.thumbnail:focus {
   list-style: none;
 }
 .list-group {
-  margin-bottom: 20px;
-  padding-left: 0;
+  margin-top: 25px;
+    margin-bottom: 20px;
+    padding-left: 0;
 }
 .list-group-item {
   position: relative;
