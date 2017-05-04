@@ -209,9 +209,10 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .jumbotron{
-    background: url(images/intro-bg.jpg);
+    background: url(images/Philly.jpg);
     color: #ffffff;
     background-attachment: fixed;
+    background-position: center;
 }
 
 .jumbotron p{
@@ -228,7 +229,7 @@ fieldset[disabled] .btn-primary.active {
 section.slider{
     color: #ffffff;
     background: #52AD81;
-    margin: 40px 0;
+    margin: 40px 0 0;
     padding: 40px 0;
 }
 
@@ -252,8 +253,8 @@ section.slider .col-md-8{
 
 
 .inner-page{
-    margin-bottom: 30px;
-    padding-bottom: 30px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
 }
 
 img{
@@ -526,7 +527,7 @@ section.contact{
 section.contact ul{
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 0 0 20px;
 }
 
 section.contact li{
